@@ -2,12 +2,12 @@
 
 ## introdução
 
-Repositório de códigos da proposta de Iniciação Científica FAPESP: "Montagem de um pan-genoma para linhagens de Saccharomyces cerevisiae do bioetanol brasileiro"
+Repositório de códigos para o projeto de Iniciação Científica: "Montagem de um pan-genoma para linhagens de Saccharomyces cerevisiae do bioetanol brasileiro"
 
 ## Créditos
 
 Aluno: Álvaro de Carvalho
 
-Orientador: Andreas K. Gombert
+Orientador: Prof. Andreas K. Gombert
 
-Co-orientadora: Natália Coutouné
+Co-orientadora: Dra. Natália Coutouné
